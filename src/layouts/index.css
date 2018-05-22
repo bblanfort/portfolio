@@ -18,7 +18,8 @@ menu,
 nav,
 section,
 summary {
-  display: block;
+  display: inline-block;
+  text-align: center;
 }
 audio,
 canvas,
